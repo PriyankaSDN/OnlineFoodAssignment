@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OnlineFood</string>
+    <string name="CodePushDeploymentKey">u1TwfdnENErtgnPM7crID8RQBo58BkGFShzIN</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+    <string name="facebook_app_id">278762272720863</string>
+    <string name="fb_login_protocol_scheme">fb278762272720863</string>
+</resources>
